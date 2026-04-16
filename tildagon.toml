@@ -3,7 +3,7 @@ name = "Tildagen Arc Pong"
 category = "Games"
 
 [entry]
-class = "TildagenApp"
+class = "TildagonApp"
 
 [metadata]
 author = "webboggles"

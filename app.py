@@ -11,7 +11,7 @@ except ImportError:
 
 DEG2RAD = 0.01745329
 
-class TildagenApp(app.App):
+class TildagonApp(app.App):
     def __init__(self):
         self.button_states = Buttons(self)
         self.reset()
@@ -316,4 +316,4 @@ class TildagenApp(app.App):
 
         ctx.restore()
 
-__app_export__ = TildagenApp
+__app_export__ = TildagonApp
